@@ -25,6 +25,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/chris-vankula/0/363/898
 
+- name: Andy Angelos
+  image: andy.jpg
+  position: Really Big Ego
+  social:
+    - title: instagram
+      url: https://instagram.com/andyangelos
+    - title: linkedin
+      url: https://www.linkedin.com/in/andyangelos
+
 - name: Steven Maguire
   image: steven.jpg
   position: Product and Technology
