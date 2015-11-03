@@ -659,6 +659,11 @@ aside.clients img {
     margin: 50px auto;
 }
 
+.process {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
 .exchanges {
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
