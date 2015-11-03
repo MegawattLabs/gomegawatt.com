@@ -146,4 +146,8 @@ function init() {
         map: map,
         icon: image
     });
+
+    google.maps.event.addDomListener(window, 'resize', function() {
+        map.setCenter(myLatLng);
+    });
 }
