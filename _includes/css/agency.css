@@ -682,6 +682,34 @@ aside.clients img {
     margin: 50px auto;
 }
 
+#team blockquote {
+    border: none;
+    padding: 3% 0;
+}
+
+#team blockquote p {
+    text-align: left;
+    font-style: italic;
+    font-size: 110%;
+    color: #999;
+}
+
+#team blockquote footer {
+    text-align: right;
+    font-size: 120%;
+}
+
+#team blockquote:before {
+    content:'';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width:40%;
+    height:1px;
+    margin-left: -20%;
+    background: #ccc;
+}
+
 section#contact {
     background-color: #222;
     /*background-image: url(../img/map-image.png);*/
