@@ -659,6 +659,15 @@ aside.clients img {
     margin: 50px auto;
 }
 
+.exchanges {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.exchanges img {
+    margin: 50px auto;
+}
+
 section#contact {
     background-color: #222;
     /*background-image: url(../img/map-image.png);*/

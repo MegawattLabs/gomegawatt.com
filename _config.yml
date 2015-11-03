@@ -59,6 +59,29 @@ social:
   - title: github
     url: http://github.com/megawattlabs
 
+exchanges:
+  - name: admeta
+  - name: adscale
+  - name: adconductor
+  - name: aol
+  - name: casale
+  - name: switch
+  - name: cox-digital-solutions
+  - name: double-click
+  - name: federated-media
+  - name: gumgum
+  - name: live-intent
+  - name: openx
+  - name: pubmatic
+  - name: pulsepoint
+  - name: rubicon
+  - name: smart
+  - name: yield-lab
+  - name: yield-partners
+  - name: nexage
+  - name: improve-digital
+  - name: appnexus
+
 # Postal address (add as many lines as necessary)
 address:
   - line: West Loop
