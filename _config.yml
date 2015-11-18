@@ -29,6 +29,8 @@ people:
   image: andy.jpg
   position: Marketing and Strategy
   social:
+    - title: twitter
+      url: https://twitter.com/andyangelos
     - title: instagram
       url: https://instagram.com/andyangelos
     - title: linkedin
